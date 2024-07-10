@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+/* styles.css */
+
+:root {
+  --primary-orange: #fd6f00;
+  --primary-orange-dark: #cc5800;
+}
+
+* {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+
+.color-orange {
+  color: var(--primary-orange);
+}
+
+.bg-orange {
+  background: var(--primary-orange);
+}
+
+.button-orange {
+  color: #fff;
+  background-color: var(--primary-orange);
+  border: 1px solid var(--primary-orange);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out,
+    color 0.15s ease-in-out;
+}
+
+.button-orange:hover {
+  background-color: var(--primary-orange-dark);
+  border-color: var(--primary-orange-dark);
+}
+
+.button-outline-orange {
+  color: var(--primary-orange);
+  background-color: transparent;
+  border: 1px solid var(--primary-orange);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out,
+    color 0.15s ease-in-out;
+}
+
+.button-outline-orange:hover {
+  color: #fff;
+  background-color: var(--primary-orange);
+  border-color: var(--primary-orange);
+}

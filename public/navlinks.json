@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Home",
+    "destination": "#"
+  },
+  {
+    "title": "About me",
+    "destination": "#about-me"
+  },
+  {
+    "title": "Services",
+    "destination": "#services"
+  },
+  {
+    "title": "Projects",
+    "destination": "#projects"
+  },
+  {
+    "title": "Contacts",
+    "destination": "#contacts"
+  }
+]

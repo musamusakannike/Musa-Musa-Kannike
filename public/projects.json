@@ -1,0 +1,56 @@
+[
+    {
+        "title": "CryptoDucklings Landing Page",
+        "description": "A landing page for a crypto related project made with React js and bootstrap",
+        "link": "https://crypto-ducklings.vercel.app/",
+        "image": "assets/img/crypto-ducklings.vercel.app_.png"
+    },
+    {
+        "title": "Virtuals build Landing page",
+        "description": "A landing page for a tech related project made with HTML and CSS",
+        "link": "https://virtuals-build.vercel.app/",
+        "image": "assets/img/virtuals-build.vercel.app_.png"
+    },
+    {
+        "title": "WatchWave Movie App",
+        "description": "A movie app with React js and bootstrap. The Movie DB API was used",
+        "link": "https://watch-wave1.vercel.app/",
+        "image": "assets/img/watch-wave1.vercel.app_.png"
+    },
+    {
+        "title": "Mock Portfolio",
+        "description": "A mock portfolio website design from figma to react js website",
+        "link": "https://mock-portfolio-rose.vercel.app/",
+        "image": "assets/img/mock-portfolio-rose.vercel.app_.png"
+    },
+    {
+        "title": "Financo crypto website",
+        "description": "A landing page for a crypto related project made with HTML, CSS and bootstrap",
+        "link": "https://crypto-ducklings.vercel.app/",
+        "image": "assets/img/financo.vercel.app_.png"
+    },
+    {
+        "title": "To Do List App",
+        "description": "A To do list project made with HTML, CSS, JavaScript and bootstrap",
+        "link": "https://todotasksproject.vercel.app/",
+        "image": "assets/img/todotasksproject.vercel.app_.png"
+    },
+    {
+        "title": "SwiftLink",
+        "description": "A URL shortener made with HTML, CSS, JavaScript, bootstrap and Tiny url API",
+        "link": "https://todotasksproject.vercel.app/",
+        "image": "assets/img/swift-link.vercel.app_.png"
+    },
+    {
+        "title": "Quiz App",
+        "description": "A random quiz app made with React js and bootstrap",
+        "link": "https://todotasksproject.vercel.app/",
+        "image": "assets/img/quizzies-quiz.vercel.app_.png"
+    },
+    {
+        "title": "Reciper",
+        "description": "A recipe search app made with React js, bootstrap and The MealDB api",
+        "link": "https://todotasksproject.vercel.app/",
+        "image": "assets/img/reciper-foods.vercel.app_.png"
+    }
+]
