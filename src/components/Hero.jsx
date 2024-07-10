@@ -21,7 +21,7 @@ function Hero() {
               <a href="#projects" className="button-orange text-decoration-none mx-1 animate__animated animate__fadeInUp">
                 SEE PORTFOLIO
               </a>
-              <a href="#" className="button-outline-orange text-decoration-none mx-1 animate__animated animate__fadeInUp">
+              <a href="Professional CV Resume.pdf" download="Musa Musa Kannike.pdf" className="button-outline-orange text-decoration-none mx-1 animate__animated animate__fadeInUp">
                 GET RESUME
               </a>
             </div>

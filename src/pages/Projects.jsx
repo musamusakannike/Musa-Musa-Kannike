@@ -62,9 +62,15 @@ function Projects() {
             {projects.map((project, index) => (
               <div key={index} className="col-md-4 my-2">
                 <div className="card p-1 h-100 animate__animated animate__zoomIn">
-                  <div className="card-img">
-                    <img src={project.image} alt="" className="w-100 h-auto" />
-                  </div>
+                  <a target="_blank" href={project.link}>
+                    <div className="card-img">
+                      <img
+                        src={project.image}
+                        alt=""
+                        className="w-100 h-auto"
+                      />
+                    </div>
+                  </a>
                   <div className="card-body">
                     <h5 className="card-title">{project.title}</h5>
                     <p>{project.description}</p>
@@ -93,14 +99,11 @@ function Projects() {
             className="my-2 list-unstyled d-flex justify-content-center"
             style={{ flexWrap: "wrap" }}
           >
-              <li>
-                <Link
-                  to={'/'}
-                  className="mx-1 text-decoration-none text-dark"
-                >
-                  Home
-                </Link>
-              </li>
+            <li>
+              <Link to={"/"} className="mx-1 text-decoration-none text-dark">
+                Home
+              </Link>
+            </li>
           </ul>
         </nav>
         <div className="text-center mt-5">
